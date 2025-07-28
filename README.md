@@ -16,4 +16,4 @@ Simple Python CLI app to manage student records.
 Python 3 (built in Pydroid 3)
 
 ## 🚀 How to Run
-Open in Pydroid 3 → Tap "Run" ▶️
+Open in Pydroid 3 or VS code → Tap "Run" ▶️
